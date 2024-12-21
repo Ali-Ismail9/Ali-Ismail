@@ -5,7 +5,7 @@
 
 ### 🌟 About Me  
 - 💻 I'm Software Developer.  
-- 🔧 Skilled in modern technologies: *MERN Stack* (MongoDB, Express.js, React, Node.js) & *PERN Stack* (PostgreSQL).  
+- 🔧 Skilled in modern technologies: *MERN Stack* (MongoDB, Express.js, React, Node.js) & Flutter.  
 - 🎯 Currently learning *AI & ML*.  
 - 🌍 Exploring *Flutter* for future app projects (2025 Goal).  
 
@@ -21,12 +21,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-muse-97&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-muse-97&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
 ---
 
