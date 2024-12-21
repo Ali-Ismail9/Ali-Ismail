@@ -27,10 +27,7 @@
 
 ### 💼 Projects  
 Here are some of my recent projects:  
-- 📝 *Islamic inheritance* - A MERN app for calculate islamic inheritance.  
--  
-
-
+- 📝 *Islamic inheritance* - A MERN app for calculate islamic inheritance. 
 ---
 
 ### 🔗 Connect With Me  
